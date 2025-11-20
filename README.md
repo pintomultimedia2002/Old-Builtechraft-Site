@@ -5,3 +5,10 @@ Eso sí, no hay necesidad de ser un experto para colaborar en este proyecto.
 
 La nueva y mejoradaestá aquí: https://github.com/Tarquitet/Builtechraft-Web
 (se mejorará a futuro)
+
+Autores:
+David Pinto: https://www.linkedin.com/in/pinto-gomez-david/
+Santiago Henao: https://www.linkedin.com/in/santiago-henao-aguirre-a846682b1/
+Panda:
+
+![1](./old-demo-png)
