@@ -13,4 +13,4 @@ Santiago Henao:
 https://www.linkedin.com/in/santiago-henao-aguirre-a846682b1/
 Panda:
 
-![1](./old-demo-png)
+![1](./old-demo.png)
